@@ -1,0 +1,4 @@
+python-docx>=0.8.11
+lxml>=4.9.2
+PyPDF2>=3.0.0
+Pillow>=9.0.0
